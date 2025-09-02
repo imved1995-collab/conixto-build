@@ -1,0 +1,492 @@
+{
+  "slides": [
+    {
+      "image": { "url": "./assets/images/slider_image_10.jpg" },
+      "title": "Your trusted SAP Controlling consulting partner",
+      "description": "Digitalization projects in the SAP environment can only be successful if both the technical and business aspects of the defined project goals are consistently and sustainably kept in focus.\n\nYour advantage: Competent business consulting combined with technical implementation expertise"
+    },
+    {
+      "image": { "url": "./assets/images/slider_image_12.jpg" },
+      "title": "Speaks the language of both business and IT",
+      "description": "We build the bridge between worlds. Our consulting approach covers all phases of requirements implementation. We are capable of delivering our concepts with the highest quality.\n\nYour advantage: You need fewer resources from Business & IT while receiving high-quality, well-thought-out solutions"	
+    },
+    {
+      "image": { "url": "./assets/images/slider_image_13.jpg" },
+      "title": "Driving Success in Every Project",
+      "description": "Whether waterfall or agile – we master both. Rely on our expertise, reliability, and commitment to precision. As true team players, we bring in-depth knowledge and valuable project experience to the table.\n\nYour advantage: With us at your side, your project goals turn into success stories"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "SAP Controlling Expertise in SAP ECC & SAP S/4HANA",
+      "description": "From concept to implementation – we design and deliver tailored controlling solutions in SAP ECC and SAP S/4HANA. With a deep understanding of processes and technology, we transform requirements into sustainable results"
+    },
+    {
+      "title": "Bridging internal and external accounting for greater transparency",
+      "description": "The requirements for internal and external reporting differ and are subject to varying rules and regulations. However, in certain areas, these differences can be bridged to enable a largely unified reporting approach. Aligning both reporting worlds reduces reconciliation efforts and creates greater efficiency"
+    },
+    {
+      "title": "From concept to realization: Streamlined standardized chart of accounts tailored to your needs",
+      "description": "Clearly defined logics in the design and structure of a group-wide (operational) chart of accounts unlock numerous advantages in customizing, account determination, group definition, reporting, and more. Transparent and binding rules regarding account class and account nomenclature ensure clarity and consistency. We know how to make it work – and we are ready to share our expertise with you"
+    },
+    {
+      "title": "Driving profitability insights: multi-level contribution margin accounting in SAP Profitability Analysis",
+      "description": "Multi-level contribution margin accounting helps you determine relevant KPIs at different levels of granularity – and leverage them for effective corporate management. Whether cost-based CO-PA, account-based CO-PA, or Margin Analysis in the Universal Journal – we support you in both conceptual design and implementation"
+    },
+    {
+      "title": "Defining value flows in line with IAS/IFRS",
+      "description": "IAS/IFRS place diverse requirements on the chart of accounts, account determination, value flows, profit and loss statement by cost of sales method, valuation, and more within the SAP system. With our expertise, you can map your business processes in a way that fully complies with international accounting standards"
+    },
+    {
+      "title": "Group Standards, Change Management & Governance",
+      "description": "Defining corporate standards and implementing them through effective change management and governance is key to the long-term success of any SAP initiative.We’re here to help you establish the right framework and conditions to ensure your project delivers lasting value and measurable results"
+    },
+    {
+      "title": "Consolidation of group inventories & group production costs",
+      "description": "Group inventories must be reported as of the reporting date. To enable this, group production costs must be determined in compliance with legal requirements. Beyond inventory valuation, these costs can also be integrated into cost object controlling and margin analysis to answer a wide range of business management questions. We are highly familiar with this topic and can provide valuable contributions to your project"
+    },
+    {
+      "title": "Mergers & Acquisitions (Roll-in/Carve-out/Stay-in)",
+      "description": "Organizational changes within a corporate group often require adjustments in the ERP system. Mergers & Acquisitions (M&A) need to be seamlessly integrated into the group structure, while divestments must also be properly reflected. We support you in managing these often complex and demanding tasks with confidence and expertise"
+    },
+    {
+      "title": "From template creation to roll-out: ensuring SAP success worldwide",
+      "description": "An SAP template defines the blueprint for group-wide standardized processes and the corresponding functional scope. SAP roll-outs ensure that the system configurations, business processes, and master data defined in the template are implemented and established consistently across the globe. With our expertise and experience, we help you make this ambitious endeavor a success"
+    },
+    {
+      "title": "Tailored ABAP solutions – from concept to implementation",
+      "description": "We are able to translate the technical aspects of our well-thought-out concepts into high-quality ABAP implementations. This means you don’t need to involve multiple vendors for suboptimal solutions. With us, you get the best possible technical realization for your business requirements – from a single, reliable source"
+    }
+  ],
+  "industries": [
+    {
+      "image": { "url": "./assets/icons/industry-1.svg" },
+      "title": "Process Industry",
+      "description": "Chemie, Pharma & Life Science"
+    },
+    {
+      "image": { "url": "./assets/icons/industry-3.svg" },
+      "title": "Manufacturing",
+      "description": "Automotive, Machinery, Equipment & Component Manufacturing"
+    },
+    {
+      "image": { "url": "./assets/icons/industry-2.svg" },
+      "title": "IT & Software",
+      "description": "Software Developers, Hardware and Cloud Providers"
+    },
+    {
+      "image": { "url": "./assets/icons/industry-4.svg" },
+      "title": "Consumer Industry",
+      "description": "Consumer Products, Retail, Wholesale Distribution, Sports & Entertainment"
+    },
+    {
+      "image": { "url": "./assets/icons/industry-5.svg" },
+      "title": "Energy & Utilities",
+      "description": "Oil, Gas & Energy Utilities"
+    }
+  ],
+  "timeline": [
+    {
+      "date": { "begin": "01.2024", "end": "12.2025" },
+      "column": 2,
+      "customer": "Global leader in enterprise software",
+      "title": "Product Costing Cloud Materials",
+      "industry": "IT & Software",
+      "image": { "url": "./assets/icons/industry-2.svg" }
+    },
+    {
+      "date": { "begin": "04.2023", "end": "12.2025" },
+      "column": 1,
+      "customer": "Global leader in Forklifts, warehouse technology solutions",
+      "title": "SAP Implementation",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "03.2023", "end": "12.2024" },
+      "column": 0,
+      "customer": "Manufacturer of Agricultural Machinery",
+      "title": "Business Consulting & SAP Implementation",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "02.2013", "end": "12.2013" },
+      "column": 0,
+      "customer": "Global Provider of HVAC Solutions",
+      "title": "GAP Analysis and Solution Providing",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "02.2022", "end": "06.2022" },
+      "column": 2,
+      "customer": "Global Leader in Enterprise Software",
+      "title": "Product Costing Cloud Materials / Redesign Result Analysis",
+      "industry": "IT & Software",
+      "image": { "url": "./assets/icons/industry-2.svg" }
+    },
+    {
+      "date": { "begin": "04.2021", "end": "06.2022" },
+      "column": 0,
+      "customer": "Global Leader in Process Technologies",
+      "title": "CO-Consulting (S/4HANA Green Field)",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "04.2021", "end": "09.2022" },
+      "column": 1,
+      "customer": "Science and technology company: HC, LS, PM",
+      "title": "Performance Materials: Actual Costing Electronics",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "09.2020", "end": "12.2020" },
+      "column": 1,
+      "customer": "Global Leader in Installation Technology!",
+      "title": "Controlling Workshops",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },  
+    {
+      "date": { "begin": "09.2020", "end": "03.2021" },
+      "column": 0,
+      "customer": "Premium Automobile Manufacturer",
+      "title": "R&D Controlling",
+      "industry": "Automotive",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },    
+    {
+      "date": { "begin": "10.2017", "end": "06.2020" },
+      "column": 0,
+      "customer": "Global Leader in Enterprise Software",
+      "title": "SAP Implementation (Brown Field)",
+      "industry": "IT & Software",
+      "image": { "url": "./assets/icons/industry-2.svg" }
+    },
+    {
+      "date": { "begin": "09.2017", "end": "12.2019" },
+      "column": 1,
+      "customer": "Global Manufacturer of Oxo Chemicals",
+      "title": "Ad-hoc Consulting / Add-on Implementation for Costing",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "04.2017", "end": "09.2017" },
+      "column": 0,
+      "customer": "Global Leader in Enterprise Software",
+      "title": "SAP Implementation (Green Field)",
+      "industry": "IT & Software",
+      "image": { "url": "./assets/icons/industry-2.svg" }
+    },
+    {
+      "date": { "begin": "04.2016", "end": "03.2017" },
+      "column": 0,
+      "customer": "Global Provider of HVAC Solutions",
+      "title": "Template Design",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "12.2015", "end": "03.2016" },
+      "column": 0,
+      "customer": "Global Provider of HVAC Solutions",
+      "title": "Add-on Development ML",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "07.2015", "end": "04.2016" },
+      "column": 1,
+      "customer": "Science and Technology Company: HC, LS, PM",
+      "title": "SAP Roll-out",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "01.2014", "end": "06.2015" },
+      "column": 0,
+      "customer": "Science and Technology Company: HC, LS, PM",
+      "title": "Template Design (IT-Concept)",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "07.2013", "end": "12.2013" },
+      "column": 1,
+      "customer": "Science and Technology Company: HC, LS, PM",
+      "title": "Template Design (Business Concept)",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "09.2012", "end": "08.2013" },
+      "column": 0,
+      "customer": "Science and Technology Company: HC, LS, PM",
+      "title": "Collecting Pain-Points & Retro-fit",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "06.2012", "end": "08.2012" },
+      "column": 0,
+      "customer": "Multinational Chemical Company",
+      "title": "Roll-out Bestandsbewertung",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "06.2012", "end": "08.2012" },
+      "column": 1,
+      "customer": "Multinational Chemical Company",
+      "title": "Integrative Cost Center Reporting",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "11.2011", "end": "04.2012" },
+      "column": 2,
+      "customer": "Multinational Chemical Company",
+      "title": "Carve-out",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "12.2011", "end": "02.2012" },
+      "column": 0,
+      "customer": "Global Provider of HVAC Solutions",
+      "title": "Add-on Implementation ML",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "03.2011", "end": "11.2011" },
+      "column": 1,
+      "customer": "Multinational Chemical Company",
+      "title": "Roll-in / Merger & Acquisition / SAP-Einführung",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "01.2010", "end": "12.2010" },
+      "column": 0,
+      "customer": "Specialty Chemicals Company",
+      "title": "SAP Implementation",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "07.2009", "end": "12.2009" },
+      "column": 0,
+      "customer": "Global leader in Sporting Goods",
+      "title": "SAP Implementation",
+      "industry": "Consumer Goods",
+      "image": { "url": "./assets/icons/industry-4.svg" }
+    },
+    {
+      "date": { "begin": "01.2009", "end": "12.2009" },
+      "column": 1,
+      "customer": "Multinational Pharmaceutical and Chemicals Company",
+      "title": "Group Costing Pharma",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "07.2008", "end": "10.2009" },
+      "column": 2,
+      "customer": "Multinational Pharmaceutical and Chemicals Company",
+      "title": "Group Costing Chemicals",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "12.2007", "end": "12.2007" },
+      "column": 1,
+      "customer": "Specialty Chemicals Company",
+      "title": "Add-on Implementation Subcontracting",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "12.2007", "end": "12.2007" },
+      "column": 2,
+      "customer": "Producer of Tool Steels",
+      "title": "Support Project Team",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "02.2006", "end": "03.2009" },
+      "column": 0,
+      "customer": "Multinational Pharmaceutical and Chemicals Company",
+      "title": "Group Costing / Inventory Valuation",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "03.2005", "end": "12.2005" },
+      "column": 0,
+      "customer": "Multinational Engineering and Technology Company",
+      "title": "SAP Implementation",
+      "industry": "Automotive",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "05.2004", "end": "12.2005" },
+      "column": 1,
+      "customer": "Multinational Engineering and Technology Company",
+      "title": "Creation of Reference Models",
+      "industry": "Automotive",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "01.2004", "end": "07.2004" },
+      "column": 0,
+      "customer": "Multinational Pharmaceutical and Chemicals Company",
+      "title": "M&A: Carve-out",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "10.2003", "end": "12.2003" },
+      "column": 1,
+      "customer": "Multinational Pharmaceutical and Chemicals Company",
+      "title": "Support for functional Departments",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "03.2003", "end": "10.2003" },
+      "column": 0,
+      "customer": "Multinational Pharmaceutical and Chemicals Company",
+      "title": "M&A: Stay-in",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "02.2002", "end": "02.2003" },
+      "column": 1,
+      "customer": "Multinational Pharmaceutical and Chemicals Company",
+      "title": "Business Consulting Holding",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "10.1999", "end": "02.2002" },
+      "column": 0,
+      "customer": "Multinational Pharmaceutical and Chemicals Company",
+      "title": "SAP Implementation",
+      "industry": "Process Industry",
+      "image": { "url": "./assets/icons/industry-1.svg" }
+    },
+    {
+      "date": { "begin": "01.1999", "end": "10.1999" },
+      "column": 2,
+      "customer": "Global Automotive Systems Supplier",
+      "title": "SSAP Implementation",
+      "industry": "Automotive",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "11.1998", "end": "12.1998" },
+      "column": 2,
+      "customer": "Automotive Spare-Parts Distributor",
+      "title": "SAP Implementation",
+      "industry": "Automotive",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    },
+    {
+      "date": { "begin": "01.1998", "end": "07.1998" },
+      "column": 0,
+      "customer": "Multinational Energy Company",
+      "title": "SAP Implementation",
+      "industry": "Energy & Utilities",
+      "image": { "url": "./assets/icons/industry-5.svg" }
+    },
+    {
+      "date": { "begin": "01.1998", "end": "01.1998" },
+      "column": 2,
+      "customer": "Leading Manufacturer of Domestic Appliances",
+      "title": "Training Project Teams",
+      "industry": "Consumer Goods",
+      "image": { "url": "./assets/icons/industry-4.svg" }
+    },
+    {
+      "date": { "begin": "11.1997", "end": "11.1999" },
+      "column": 1,
+      "customer": "Global Technology and Consulting Leader",
+      "title": "Customer Competence Center",
+      "industry": "IT & Software",
+      "image": { "url": "./assets/icons/industry-2.svg" }
+    },
+    {
+      "date": { "begin": "11.1997", "end": "11.1997" },
+      "column": 0,
+      "customer": "Specialist in Catering Systems & Kitchen Solutions",
+      "title": "SAP User Training",
+      "industry": "Consumer Goods",
+      "image": { "url": "./assets/icons/industry-4.svg" }
+    },
+    {
+      "date": { "begin": "08.1997", "end": "08.1997" },
+      "column": 1,
+      "customer": "Global Technology and Consulting Leader",
+      "title": "Release Test",
+      "industry": "IT & Software",
+      "image": { "url": "./assets/icons/industry-2.svg" }
+    },
+    {
+      "date": { "begin": "04.1997", "end": "07.1997" },
+      "column": 2,
+      "customer": "Global Leader in Surgical Instruments",
+      "title": "SAP Implementation",
+      "industry": "Manufacturing",
+      "image": { "url": "./assets/icons/industry-3.svg" }
+    }
+  ],
+  "services": [
+    {
+      "title": "Post-posting ACDOCA attribute assignment",
+      "description": "The Margin Analysis in the Universal Journal enables the assignment of attributes to postings that are not part of the Profitability Analysis. This functionality applies exclusively to postings generated after activation. Existing postings can also be retroactively assigned attributes using this feature"
+    },
+    {
+      "title": "Smart CO-PA characteristics derivation",
+      "description": "Derivations in CO-PA often require support through ABAP coding. Intelligent ABAP solutions, designed with a focus on performance and transparency, enhance your data quality while simultaneously reducing posting runtimes"
+    },
+    {
+      "title": "Reconciliation of Margin Analysis with Costing-based CO-PA",
+      "description": "To ensure a smooth transition from Costing-Based CO-PA to Margin Analysis, reconciling both profitability analysis types is highly recommended during an S/4HANA implementation project. The reconciliation should focus on both values and characteristic derivations"
+    },
+    {
+      "title": "Automated CO-PA allocations",
+      "description": "As part of a standardized month-end closing, costs are transferred to their final cost centers in the Profitability Analysis. This process can be (partially) automated, saving both time and costs. By intelligently storing relevant system messages, straightforward ex-post analysis is ensured"
+    },
+    {
+      "title": "Material Master governance including validation logic",
+      "description": "The quality of material master data significantly impacts product costing, account determination, and material-related business processes. User-defined rules enable ad-hoc validation of material masters based on customer-specific criteria"
+    },
+    {
+      "title": "Semantic ex-post validation of journal entries",
+      "description": "Automated validation of postings against user-defined semantic rules is key to ensuring FI/CO compliance across your end-to-end processes. This approach improves quality in FATs, UATs, and regression tests while unlocking significant automation potential"
+    },
+    {
+      "title": "Extension of master data",
+      "description": "SAP master data can be extended to provide additional information transparently. These details can be leveraged in analyses or processes that consume master data, enabling better control and informed decision-making"
+    },
+    {
+      "title": "Subcontracting purchase order item as cost object",
+      "description": "A comprehensive set of tools is available for cost object controlling in production orders. When production is outsourced via “passive payroll processing,” key components of the controlling toolkit are no longer applicable. By defining the payroll processing order item as a cost object, this gap is effectively closed"
+    },
+    {
+      "title": "Aggregated material price analysis",
+      "description": "The aggregated CKM3N provides detailed insights into your material ledger–relevant business processes. Aggregation levels for material-based price analysis include company code, plant, and profit center. This functionality not only supports period-end closing in the production system but also proves invaluable during the implementation, expansion, and optimization of the material ledger"
+    },
+    {
+      "title": "High-level expert ABAP workshops",
+      "description": "organize comprehensive ABAP training sessions. In addition to syntax and semantics, participants learn advanced debugging techniques and delta trainings covering different ABAP releases (including 7.5e). Best practices for implementing real-world scenarios—particularly with a focus on performance and maintainability—are also presented"
+    }
+  ]
+}
